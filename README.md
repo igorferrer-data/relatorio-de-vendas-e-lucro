@@ -10,4 +10,4 @@ Implementação gráfica do relatório de vendas e lucro.
 
 ![relatorio_vendas_02](https://github.com/user-attachments/assets/841d765f-80ad-4a09-bc41-25b5696e8c30)
 
-Referência: [DIO: Power BI Analyst](https://github.com/julianazanelatto/power_bi_analyst/tree/main/M%C3%B3dulo%201)
+Referência: [DIO: Power BI Analyst](https://github.com/julianazanelatto/power_bi_analyst/tree/main/M%C3%B3dulo%202))
